@@ -19,6 +19,7 @@ For this reference app scenario, we built several consumer and line-of-business 
 - [Mobile](https://github.com/Microsoft/SmartHotel360-Mobile)
 - [Sentiment Analysis](https://github.com/Microsoft/SmartHotel360-SentimentAnalysis)
 - [Registration](https://github.com/Microsoft/SmartHotel360-Registration)
+- Prueba
 
 # SmartHotel360 - Website
 Welcome to the repository containing the website of SmartHotel360. SmartHotel360 has multiple apps that share a common backend, including a public website where hotel guests can book a room, smart conference rooms, and even verify if their pets are allowed in the hotel.
